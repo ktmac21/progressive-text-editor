@@ -1,4 +1,5 @@
 ## Progressive Text Editor
+![Screen Shot 2021-10-16 at 3 15 11 PM](https://user-images.githubusercontent.com/83046421/137599597-73a93bf0-bb0e-4ea0-9e59-ff8dce4f85b1.png)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ​
