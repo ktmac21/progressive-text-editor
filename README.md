@@ -17,6 +17,7 @@ In this week's homework my task was to add progressive web app components to an 
 
 ## Screenshot
 
+![Screen Shot 2021-10-16 at 3 09 04 PM](https://user-images.githubusercontent.com/83046421/137599464-df91fcfe-2520-4bfc-a01e-750bacc6a9bc.png)
 
 
 
@@ -41,7 +42,7 @@ https://fierce-temple-71813.herokuapp.com/
 
 ## Usage
 
-When the progressive web application is opened, the user is presented with a simple text editor that works in the browser.
+When the progressive web application is opened, the user is presented with a simple text editor that works in the browser. The application has an install feature so it can be run offline. When the user clicks the install button, the application installs onto the users desktop. The user data is saved in the IndexedDB database located in the browser. 
 
 ## Questions
 
